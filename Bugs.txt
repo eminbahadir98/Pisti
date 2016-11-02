@@ -1,0 +1,3 @@
+The starting cards at the table are cant be seen by the player who takes them.
+These cards' point values are revealed to both players.
+The artifical intelligence can play J when the board empty.
