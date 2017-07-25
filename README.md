@@ -3,7 +3,6 @@ A card game known as Bastra.
 
 Information about this card game can be found here: https://en.wikipedia.org/wiki/Bastra
 
-I hope you enjoy the game... :)
 
 ---
 

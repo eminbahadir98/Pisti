@@ -1,0 +1,10 @@
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\bin\Debug\Pişti.exe
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\bin\Debug\Pişti.pdb
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\bin\Debug\Pişti.xml
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\obj\Debug\Pişti.Form1.resources
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\obj\Debug\Pişti.Resources.resources
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\obj\Debug\Pişti.vbproj.GenerateResource.Cache
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\obj\Debug\Pişti.exe
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\obj\Debug\Pişti.xml
+C:\Users\toshıba\Documents\Visual Studio 2008\Projects\Pişti\Pişti\obj\Debug\Pişti.pdb
